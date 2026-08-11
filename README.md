@@ -1,13 +1,13 @@
 2. README for Movie Recommendation System
 
-```markdown
-# 🎬 AI Movie Recommendation System
+
+#  AI Movie Recommendation System
 
 A Content-Based Movie Recommender web application built with Python, Pandas, Scikit-Learn, and Streamlit. The system analyzes movie metadata (genres, keywords, cast, crew, overview) and recommends the 5 most similar movies along with their official poster artwork fetched live via TMDB API integration.
 
 ---
 
-## 🌟 Key Features
+##  Key Features
 - **Content-Based Filtering:** Analyzes similarity between movies based on combined metadata tags.
 - **Cosine Similarity Matrix:** Calculates distance vectors between movie embeddings for instant recommendations.
 - **TMDB API Integration:** Fetches high-resolution poster images for recommended movies in real time.
@@ -15,7 +15,7 @@ A Content-Based Movie Recommender web application built with Python, Pandas, Sci
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 | Category | Technology / Library |
 | :--- | :--- |
 | **Language** | Python 3.12 |
@@ -27,9 +27,9 @@ A Content-Based Movie Recommender web application built with Python, Pandas, Sci
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
-```text
+
 movie-recommendation-system/
 │
 ├── dataset/
